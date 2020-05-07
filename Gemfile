@@ -5,7 +5,7 @@ gemspec
 group :development, :test do
   gem 'pry'
   gem 'pry-byebug'
-  gem 'rake', '~> 12.0.0'
+  gem 'rake', '~> 13.0.1'
   gem 'rspec', '~> 3.9.0'
   gem 'rubocop'
   gem 'memory_profiler'
